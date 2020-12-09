@@ -2,4 +2,4 @@
 * Virtualization-: is the process of creating a software-based or virtual, version of something whether that be computing power, storage, networking, servers, or applications. And what makes virtualization feasible is something called a hypervisor. It's simply a piece of software that runs above the physical server or host. They essentially, pool the resources from the physical server and allocate them to your virtual environments.
 * Type 1 hypervisor -: A Type 1 hypervisor runs directly on the host machine's physical hardware, and it's referred to as a bare-metal hypervisor; it doesn't have to load an underlying OS first. With direct access to the underlying hardware and no other software -- such as OSes and device drivers -- to contend with, Type 1 hypervisors are regarded as the most efficient. 
 *  Type 2 hypervisor-: A Type 2 hypervisor is typically installed on top of an existing OS, and it's called a hosted hypervisor because it relies on the host machine's pre-existing OS to manage calls to CPU, memory, storage and network resources. 
-![](images/virtualization.png)
+![](Images/virtualization.png)
